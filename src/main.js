@@ -8,7 +8,7 @@ Vue.config.productionTip = false
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "xxxxxx",
+  apiKey: "xxxxx",
   authDomain: "xxxxx",
   databaseURL: "xxxxx",
   projectId: "xxxxx",
